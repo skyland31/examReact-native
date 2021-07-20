@@ -10,7 +10,7 @@
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "react": "16.8.6",
-    "react-native": "0.60.5",
+    "react-native": "0.62.3",
     "react-native-card-stack-swiper": "^1.1.0",
     "react-native-chart-kit": "^3.3.1",
     "react-native-flash-message": "^0.1.13",
